@@ -41,10 +41,6 @@
 
 - GitHub: https://github.com/ChristianNshuti
 
-## 📊 GitHub Stats
-
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianNshuti&show_icons=true&theme=radical)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ChristianNshuti&theme=radical)
