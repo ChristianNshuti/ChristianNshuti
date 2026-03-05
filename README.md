@@ -32,9 +32,8 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Backend Architecture
-- System Design
-- Scalable APIs
+- Optimized integration techniques
+- Backend using java
 
 ---
 
