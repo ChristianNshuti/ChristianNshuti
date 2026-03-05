@@ -49,10 +49,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ChristianNshuti&theme=radical)
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnshuti943-2374&layout=compact&theme=radical)
-
 
 ## 🛠️ Technologies
 
