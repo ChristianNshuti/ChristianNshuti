@@ -58,5 +58,5 @@
 ## 🛠️ Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,nestjs,postgres,prisma,git,github" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,redux,tailwind,nestjs,postgres,prisma,git,github" />
 </p>
