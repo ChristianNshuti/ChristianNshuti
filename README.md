@@ -52,7 +52,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNshuti&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnshuti943-2374&layout=compact&theme=radical)
 
 
 ## 🛠️ Technologies
